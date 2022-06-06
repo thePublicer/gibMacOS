@@ -43,7 +43,8 @@ class gibMacOS:
             "mojave" : "10.14",
             "catalina" : "10.15",
             "big sur" : "11",
-            "monterey" : "12"
+            "monterey" : "12",
+            "ventura" : "13"
         }
         self.current_catalog = "publicrelease"
         self.catalog_data    = None
